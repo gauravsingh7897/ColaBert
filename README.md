@@ -16,7 +16,7 @@
   !pip install transformers
   !python main.py
 
-## Refernces 
+## References 
 
 1. Bert Architecture
 1. Transformers Library
