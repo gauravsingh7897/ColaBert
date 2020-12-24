@@ -15,3 +15,9 @@
   !pip install wget
   !pip install transformers
   !python main.py
+
+## Refernces 
+
+1. Bert Architecture
+1. Transformers Library
+1. Cola Dataste
