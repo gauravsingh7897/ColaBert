@@ -1,7 +1,7 @@
 # ColaBert
 
 ## Dataset Link 
-[Cola Datset](https://nyu-mll.github.io/CoLA/)
+[Cola Dataset](https://nyu-mll.github.io/CoLA/)
 
 ## Steps
 
