@@ -10,11 +10,11 @@
 1. Upload ColaBert folder to drive.
 1. Open Google Colab and Mount drive, go to ColaBert Folder.
 1. Run these lines
-  !pwd
-  %cd drive/MyDrive/ColaBert/
-  !pip install wget
-  !pip install transformers
-  !python main.py
+  - !pwd
+  - %cd drive/MyDrive/ColaBert/
+  - !pip install wget
+  - !pip install transformers
+  - !python main.py
 
 ## References 
 
