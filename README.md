@@ -20,4 +20,4 @@
 
 1. Bert Architecture
 1. Transformers Library
-1. Cola Dataste
+1. Cola Dataset
